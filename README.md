@@ -1,2 +1,2 @@
-# Functional_Genomic_Technologies_ICA_Code
-This repository contains the scripts used for the the in-course assignment of 'Biological Databases', which I took as part of my MSc in Bioinformatics at the University of Edinburgh. More details on the scripts and the original assignment are found in the README file.
+## Task
+Students were randomly assigned an RNA-seq study from Gene Expression Omnibus (GEO) to analyse. Students were initially presented with fastq files and had to conduct quality control checks to determine if the files needed to be trimmed, and if so, were trimmed by the course instructor using Trimmomatic and then subsequently asligned using STAR. Students were then tasked to perform differential gene expression analysis and functional enirchment analysis using their assigned data files and produce an 8-page report of their analysis. 
